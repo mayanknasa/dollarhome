@@ -65,6 +65,8 @@ h1 {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform var(--transition-speed), box-shadow var(--transition-speed);
   overflow: hidden; /* Ensure content does not overflow */
+  background-color: #000;
+  color: #fff;
 }
 
 .container:hover {
@@ -141,6 +143,10 @@ h1 {
   .main-content {
     width: 95vw;
     padding: 0;
+  }
+
+  .text-container{
+    text-align: center;
   }
 }
 
