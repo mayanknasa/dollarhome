@@ -31,6 +31,8 @@ body {
   gap: 20px;
   margin-bottom: 20px;
   animation: slideInDown 1s ease-out;
+  justify-content: center;
+  text-align: center;
 }
 
 .heading img {
@@ -129,6 +131,7 @@ h1 {
 
 a, a:visited, a:hover, a:active {
   color: #000;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .features-section{
