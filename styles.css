@@ -33,6 +33,7 @@ body {
   animation: slideInDown 1s ease-out;
   justify-content: center;
   text-align: center;
+  color: #fff;
 }
 
 .heading img {
